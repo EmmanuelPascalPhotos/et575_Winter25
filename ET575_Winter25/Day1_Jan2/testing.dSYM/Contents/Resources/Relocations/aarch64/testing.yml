@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/mannythegod/Downloads/ET575_Winter25/Day1_Jan2/testing'
+relocations:     []
+...
